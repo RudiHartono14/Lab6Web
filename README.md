@@ -55,3 +55,9 @@ Seperti contoh pada gambar berikut ini:*
 
 *Kali ini saya akan membuat content article menggunakan bootstrap. dimana setiap artikel yang ditambahkan akan ada foto di sisi kiri dan kanan. Saya akan menambahkan beberapa source code untuk content article.*
 
+![gambar code](gambar/code4.JPG)
+
+*lalu Hasil dari source code tersebut ketika ditampilkan pada browser seperti gambar dibawah ini.*
+
+![menam,bahkan gambar hasil content artikel](gambar/hasil4.JPG)
+
