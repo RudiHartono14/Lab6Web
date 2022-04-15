@@ -44,3 +44,7 @@ Seperti contoh pada gambar berikut ini:*
 
 ![gambar code](gambar/code3.JPG)
 
+*Dan hasil nya pada web akan seperti gambar di bawah ini:*
+
+![menambahkan hasil heading & Tombol](gambar/hasil3.JPG)
+
