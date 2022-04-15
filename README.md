@@ -22,3 +22,7 @@ Kelas   : TI.20.B1
 
 ![gambar source code pada html](gambar/Sourcecode.JPG)
 
+*Dan hasil dari source code tersebut akan menampilkan output pada browser seperti gambar dibawah ini.*
+
+![gambar hasil pada web](gambar/hasil1.JPG)
+
