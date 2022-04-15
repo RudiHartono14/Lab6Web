@@ -39,3 +39,8 @@ Seperti contoh pada gambar berikut ini:*
 *Lalu dari hasil tampilan pada web nya akan seperti gambar di bawah ini:*
 
 ![gambar hasil code](gambar/hasil2.JPG)
+
+*Setelah Layout coloumns yang saya buat sesuai, saya akan memesukan gambar yang berisi Heading & Tombol. Beberapa source code yang saya tambahkan sebagai berikut:*
+
+![gambar code](gambar/code3.JPG)
+
