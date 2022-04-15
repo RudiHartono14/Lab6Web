@@ -48,3 +48,10 @@ Seperti contoh pada gambar berikut ini:*
 
 ![menambahkan hasil heading & Tombol](gambar/hasil3.JPG)
 
+
+## Membuat konten Artikel
+
+<hr>
+
+*Kali ini saya akan membuat content article menggunakan bootstrap. dimana setiap artikel yang ditambahkan akan ada foto di sisi kiri dan kanan. Saya akan menambahkan beberapa source code untuk content article.*
+
