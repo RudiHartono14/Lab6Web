@@ -26,3 +26,16 @@ Kelas   : TI.20.B1
 
 ![gambar hasil pada web](gambar/hasil1.JPG)
 
+
+## Membuat 2 Kolom Berisi Heading dan Widget Header
+
+<hr>
+
+*Untuk Point ini saya akan membuat baris baru menggunakan "<div class="row">" Menjadi Dua Bagian, Dimana sisi saya bagi dari 8 kolom dan sisi kanan 4 kolom.
+Seperti contoh pada gambar berikut ini:*
+
+![gambar source code](gambar/code2.JPG)
+
+*Lalu dari hasil tampilan pada web nya akan seperti gambar di bawah ini:*
+
+![gambar hasil code](gambar/hasil2.JPG)
